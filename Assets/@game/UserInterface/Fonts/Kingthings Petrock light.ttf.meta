@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: da7e46f4d1e49f242aa79b8e7e3cb3ec
+timeCreated: 1528125726
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kingthings Petrock Light
+  fontNames:
+  - Kingthings Petrock Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

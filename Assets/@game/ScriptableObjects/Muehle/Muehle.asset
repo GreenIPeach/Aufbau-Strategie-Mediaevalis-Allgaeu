@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a2d57399ac2764c84cef01381fcd1e, type: 3}
+  m_Name: Muehle
+  m_EditorClassIdentifier: 
+  buildingName: "M\xFChle"
+  buildingDescription: "Die M\xFChle verarbeitet das Getreide zu Mehl weiter."
+  building:
+  - {fileID: 11400000, guid: db4b5bc491f57b249a2971b3a16e22cf, type: 2}
+  constructionSite: {fileID: 1230013872062150, guid: bc76d0cab0a40664f8ffda0f7d88e595,
+    type: 2}
+  category: 2
+  requirment: 1

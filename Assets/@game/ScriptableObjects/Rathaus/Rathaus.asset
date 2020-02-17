@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a2d57399ac2764c84cef01381fcd1e, type: 3}
+  m_Name: Rathaus
+  m_EditorClassIdentifier: 
+  buildingName: Rathaus
+  buildingDescription: "Das Rathaus k\xFCmmert sich um die Verwaltung und den Ausbau
+    der Stadt."
+  building:
+  - {fileID: 11400000, guid: 119b585aac20a9648b8cacb0600dad66, type: 2}
+  - {fileID: 11400000, guid: ae7f9c7110351ab47a94f2bcde838bbe, type: 2}
+  - {fileID: 11400000, guid: c56d94e7341b6234282de562d61b6e88, type: 2}
+  - {fileID: 11400000, guid: 7f950ffa608a5134b95f9481c0a50013, type: 2}
+  constructionSite: {fileID: 1351605904994878, guid: 6fcb61253d7748f4cab38c9bc99b864b,
+    type: 2}
+  category: 0
+  requirment: -1

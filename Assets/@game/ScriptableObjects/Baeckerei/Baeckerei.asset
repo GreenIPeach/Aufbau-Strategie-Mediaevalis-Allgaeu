@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a2d57399ac2764c84cef01381fcd1e, type: 3}
+  m_Name: Baeckerei
+  m_EditorClassIdentifier: 
+  buildingName: "B\xE4ckerei"
+  buildingDescription: "Die B\xE4ckerei bereitet aus Mehl Brot zu."
+  building:
+  - {fileID: 11400000, guid: e13584450094d5f48b6bc144555eec54, type: 2}
+  constructionSite: {fileID: 1423769629348966, guid: 56277e697761ad14180fd154b90bd040,
+    type: 2}
+  category: 2
+  requirment: 1

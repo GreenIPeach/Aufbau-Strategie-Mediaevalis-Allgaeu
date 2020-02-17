@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a2d57399ac2764c84cef01381fcd1e, type: 3}
+  m_Name: Forsthuette
+  m_EditorClassIdentifier: 
+  buildingName: "Forsth\xFCtte"
+  buildingDescription: "F\xF6rster sorgen durch das F\xE4llen von B\xE4umen f\xFCr
+    neues Baumaterial."
+  building:
+  - {fileID: 11400000, guid: 2290f49885d6bf94b9384a6462f6f498, type: 2}
+  constructionSite: {fileID: 1375507354058636, guid: bc8adb391272fb443a9940810acd1560,
+    type: 2}
+  category: 1
+  requirment: 0

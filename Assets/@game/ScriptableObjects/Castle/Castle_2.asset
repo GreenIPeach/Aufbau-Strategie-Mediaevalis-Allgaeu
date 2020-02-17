@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36e8914e3cb392047b6a0aacfefaf0dc, type: 3}
+  m_Name: Castle_2
+  m_EditorClassIdentifier: 
+  building: {fileID: 1200593987807074, guid: 3b54513778a102e48bf74c32167886ba, type: 2}
+  constructionTime: 0
+  maxWorkers: 0
+  wood: 80
+  stone: 55
+  iron: 40
+  coal: 0
+  gold: 0
+  weapons: 10
+  requirment: 0
